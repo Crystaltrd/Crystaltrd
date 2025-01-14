@@ -12,12 +12,12 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
-          config_timezone: Africa/Algiers
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           
           user: Paranoid-Pufferfish
           base: header, activity, community, repositories, metadata
+          filename: metrics-main.svg
           template: classic
           base_indepth: yes
           base_hireable: yes
@@ -28,19 +28,25 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
-          config_timezone: Africa/Algiers
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           
           plugin_languages: yes
+          plugin_languages_ignored: CMake, HTML, CSS, Makefile, Jupyter Notebook
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
           plugin_languages_details: percentage
-          plugin_languages_indepth: yes
+          plugin_languages_indepth: no
           plugin_languages_analysis_timeout: 30
           plugin_languages_categories: programming
+          
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+
           user: Paranoid-Pufferfish
           base: ''
+          filename: metrics-lang-wakatime.svg
           template: classic
           repositories: 240
           repositories_batch: 40

@@ -12,6 +12,7 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
+          config_timezone: Africa/Algiers
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           
@@ -28,6 +29,7 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
+          config_timezone: Africa/Algiers
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           

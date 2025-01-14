@@ -1,21 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Paranoid-Pufferfish/Paranoid-Pufferfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img align="right" width="150" src="https://github.com/cvyl/ly-nld/assets/38471793/05818e2e-56ca-440d-98cd-411c1e212c31"/>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paranoid-Pufferfish&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
@@ -36,7 +20,7 @@ Here are some ideas to get you started:
 ![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-
+<img align="right" width="150" src="./lain-iwakura.gif"/>
 **Operating Systems**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -48,6 +32,7 @@ Here are some ideas to get you started:
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 
 

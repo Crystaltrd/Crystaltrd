@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<img align="right" width="150" src="https://github.com/cvyl/ly-nld/assets/38471793/05818e2e-56ca-440d-98cd-411c1e212c31"/>
 <!--
 **Paranoid-Pufferfish/Paranoid-Pufferfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" width="150" src="https://github.com/cvyl/ly-nld/assets/38471793/05818e2e-56ca-440d-98cd-411c1e212c31"/>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paranoid-Pufferfish&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 

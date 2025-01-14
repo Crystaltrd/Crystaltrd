@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paranoid-Pufferfish&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+
 **Stack**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -46,4 +49,9 @@ Here are some ideas to get you started:
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paranoid-Pufferfish&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+<a href="https://github.com/Paranoid-Pufferfish">
+  <img align="center" width="49%" src="./metrics-main.svg" />
+</a>
+<a href="https://github.com/Paranoid-Pufferfish">
+  <img align="center" width="49%" src="./metrics-lang-wakatime.svg" />
+</a>

@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img align="right" width="150" src="https://github.com/cvyl/ly-nld/assets/38471793/05818e2e-56ca-440d-98cd-411c1e212c31"/>
 <!--
 **Paranoid-Pufferfish/Paranoid-Pufferfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

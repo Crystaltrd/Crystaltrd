@@ -1,10 +1,12 @@
-## Crystal 👋
+## Crystal
 
 Hello !!! I'm Crystal, an amateur low-level programmer. 
 
 I share my random projects here, and you are welcome to look around!! My comfort language for now is C, I also translate some projects from time to time
 
 🌎 I also have a [Website](https://crystal.tilde.institute) which is pretty awesome
+
+<img align="right" width="150" src="./teto-tetoris.gif"/>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paranoid-Pufferfish&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 

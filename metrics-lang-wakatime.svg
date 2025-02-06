@@ -180,27 +180,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">BCHS-chibi</span>
-                                <div class="bar" style="width: 36.088%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">45%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">kcgi</span>
-                                <div class="bar" style="width: 17.224%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">22%</span>
+                                <div class="bar" style="width: 34.68%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">43%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">BCHS_chibi</span>
-                                <div class="bar" style="width: 15.856000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">20%</span>
+                                <div class="bar" style="width: 15.112000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">19%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">chibi</span>
-                                <div class="bar" style="width: 5.5920000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
+                                <span class="name">kcgi</span>
+                                <div class="bar" style="width: 12.751999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">16%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Chibi_Manager</span>
+                                <div class="bar" style="width: 10.136000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">13%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SFSD-Mini-Project</span>
-                                <div class="bar" style="width: 4.247999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.048%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                         </div>
@@ -210,27 +210,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 42.304%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">53%</span>
+                                <div class="bar" style="width: 40.232%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">50%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C/C++</span>
-                                <div class="bar" style="width: 11.032%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">14%</span>
+                                <div class="bar" style="width: 13.591999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">17%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C++</span>
-                                <div class="bar" style="width: 7.664%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">10%</span>
+                                <div class="bar" style="width: 6.968000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">sh</span>
-                                <div class="bar" style="width: 7.151999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.816%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">9%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SQL</span>
-                                <div class="bar" style="width: 3.552%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.488%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                         </div>

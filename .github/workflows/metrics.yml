@@ -18,7 +18,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           
-          user: Paranoid-Pufferfish
+          user: Crystaltrd
           base: header, activity, community, repositories, metadata
           filename: metrics-main.svg
           template: classic
@@ -49,7 +49,7 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
-          user: Paranoid-Pufferfish
+          user: Crystaltrd
           base: ''
           filename: metrics-lang-wakatime.svg
           template: classic

@@ -8,7 +8,7 @@ I share my random projects here, and you are welcome to look around!! My comfort
 
 <img align="right" width="150" src="./teto-tetoris.gif"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paranoid-Pufferfish&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Crystaltrd&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 **Stack**
 

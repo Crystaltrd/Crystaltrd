@@ -40,12 +40,3 @@ I share my random projects here, and you are welcome to look around!! My comfort
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
-
-
-<a href="https://github.com/vanillacreamontop">
-  <img align="center" width="49%" src="./metrics-main.svg" />
-</a>
-<a href="https://github.com/vanillacreamontop">
-  <img align="center" width="49%" src="./metrics-lang-wakatime.svg" />
-</a>

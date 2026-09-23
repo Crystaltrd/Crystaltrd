@@ -43,9 +43,9 @@ I share my random projects here, and you are welcome to look around!! My comfort
 
 
 
-<a href="https://github.com/Paranoid-Pufferfish">
+<a href="https://github.com/vanillacreamontop">
   <img align="center" width="49%" src="./metrics-main.svg" />
 </a>
-<a href="https://github.com/Paranoid-Pufferfish">
+<a href="https://github.com/vanillacreamontop">
   <img align="center" width="49%" src="./metrics-lang-wakatime.svg" />
 </a>

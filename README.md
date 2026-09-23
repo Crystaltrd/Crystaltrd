@@ -1,10 +1,9 @@
-## Crystal
+## Vanilla
 
-Hello !!! I'm Crystal, an amateur low-level programmer. 
+Hello !!! I'm Vanilla, an amateur low-level programmer. 
 
 I share my random projects here, and you are welcome to look around!! My comfort language for now is C, I also translate some projects from time to time
 
-🌎 I also have a [Website](https://crystal.tilde.institute) which is pretty awesome
 
 <img align="right" width="150" src="./teto-tetoris.gif"/>
 
